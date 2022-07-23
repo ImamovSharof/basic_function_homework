@@ -2,13 +2,12 @@
 
 //  Return the value "Hello World"
 String func(){
-    return "Hello world";
+    return "Hello World";
 }
 
 
 void main() {
-    String x;
-    // x=func();
-    // print(x);
+   
+
     print(func());
 }
