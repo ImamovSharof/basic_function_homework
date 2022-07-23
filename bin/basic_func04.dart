@@ -4,6 +4,8 @@ int func(){
     return ( 123 );
 }
 
+
+
 void main() {
     print(func());
 }

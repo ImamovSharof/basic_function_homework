@@ -7,6 +7,7 @@ int func(a){
     return(a+1);
 }
 
+
 void main() {
     print(func(5));    
 }

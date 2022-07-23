@@ -4,6 +4,7 @@
 String func(){
     return ("Samarqand");
 
+
 }
 void main() {
     print(func());

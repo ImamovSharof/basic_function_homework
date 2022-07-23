@@ -7,6 +7,7 @@ String func(a){
     return(a);
 }
 
+
 void main() {
     print(func('UZB'));
 }

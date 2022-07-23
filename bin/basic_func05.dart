@@ -4,6 +4,7 @@
 double func(){
     return(1.23);
 }
+
 void main() {
     print(func());
 }
