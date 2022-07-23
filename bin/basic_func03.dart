@@ -2,7 +2,7 @@
 
 // Return the value "codeschooluz"
 String func(){
-    return"codeschool.uz";
+    return"codeschooluz";
 }
 
 
