@@ -1,4 +1,10 @@
 // Create a function called func.
 
 // Return the value String type.
-void main() {}
+String func(){
+    return ("Samarqand");
+
+}
+void main() {
+    print(func());
+}
